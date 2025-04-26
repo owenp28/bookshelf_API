@@ -4,7 +4,8 @@ Project Bookshelf API adalah sebuah aplikasi backend yang dirancang untuk mengel
 ```markdown
 # Bookshelf API
 
-Bookshelf API adalah aplikasi backend sederhana untuk mengelola koleksi buku. API ini memungkinkan Anda untuk menambahkan, menampilkan, memperbarui, dan menghapus buku dari koleksi.
+Bookshelf API adalah aplikasi backend sederhana untuk mengelola koleksi buku. API ini memungkinkan Anda
+untuk menambahkan, menampilkan, memperbarui, dan menghapus buku dari koleksi.
 
 ## Requirements
 
