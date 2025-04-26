@@ -22,7 +22,7 @@ untuk menambahkan, menampilkan, memperbarui, dan menghapus buku dari koleksi.
 
 2. **Install dependencies**:
    ```sh
-   npm install
+   npm install nanoid
    ```
 
 3. **Buat file `.env`**:
