@@ -104,9 +104,3 @@ untuk menambahkan, menampilkan, memperbarui, dan menghapus buku dari koleksi.
 - **Method**: DELETE
 - **URL**: `/books/{bookId}`
 
-## License
-
-Proyek ini dilisensikan di bawah MIT License.
-```
-
-Dengan file `README.md` ini, pengguna akan memiliki panduan yang jelas tentang cara mengatur dan menjalankan proyek Bookshelf API Anda. Semoga bermanfaat! 🚀 Jika ada yang perlu ditambahkan atau diperbaiki, jangan ragu untuk bertanya.
